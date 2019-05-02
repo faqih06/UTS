@@ -1,0 +1,7 @@
+Q:\ampas panda\New folder\UTS\UTS\bin\Debug\UTS.exe.config
+Q:\ampas panda\New folder\UTS\UTS\bin\Debug\UTS.exe
+Q:\ampas panda\New folder\UTS\UTS\bin\Debug\UTS.pdb
+Q:\ampas panda\New folder\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+Q:\ampas panda\New folder\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+Q:\ampas panda\New folder\UTS\UTS\obj\Debug\UTS.exe
+Q:\ampas panda\New folder\UTS\UTS\obj\Debug\UTS.pdb
